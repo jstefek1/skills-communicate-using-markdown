@@ -26,8 +26,8 @@ Let's add some code blocks. Code blocks can render differently depending on the 
 
 ### Example 1
 
-<pre>
-```
+<pre>$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
