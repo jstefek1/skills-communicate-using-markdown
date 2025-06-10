@@ -19,27 +19,6 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Define terms and link to docs.github.com.
 -->
 
-## Step 3: Add a code example
-
-_Great job adding an image to the file :tada:_
-
-Let's add some code blocks. Code blocks can render differently depending on the language.
-
-### Example 1
-
-<pre>
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-</pre>
-
-#### How it looks
-
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
 
 ### Example 2
 
